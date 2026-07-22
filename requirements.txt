@@ -1,3 +1,5 @@
 requests
 plotly
 wordcloud
+requests
+openai
